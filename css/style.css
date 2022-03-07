@@ -1,0 +1,9 @@
+.container{
+    background-color:  #f5f5dd;
+}
+
+.container div {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin-bottom: 10px;
